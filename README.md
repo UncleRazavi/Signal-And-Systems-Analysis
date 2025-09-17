@@ -1,5 +1,3 @@
-# SignalAndSystemsAnalysis
-
 # Signal and Systems Project
 
 ## Overview
